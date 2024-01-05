@@ -8,6 +8,7 @@
 - 🐧 Familiar with using tools such as the Linux terminal, Docker Desktop and Git
 
 <h3>How to contact me:</h3>
+
 - My email: alextesan2004@gmail.com
 
 <!---

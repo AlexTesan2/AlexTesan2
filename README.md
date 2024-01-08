@@ -4,7 +4,7 @@
 - 👨‍💻 Software developer student from Zaragoza, Spain
 - 🔭 Currently, I am studying at [Salesianos Zaragoza](https://zaragoza.salesianos.edu/)
 - 📈 I aspire to learn and become a great programmer
-- 🌱 I’m presently learning Angular, .Net and C#
+- 🌱 I’m presently learning Angular, .Net, C# and Salesforce
 - 📚 I have knowledge of: Java, Python, MySQL, HTML, CSS, JavaScript, Bootstrap and Odoo
 - 🐧 Familiar with using tools such as the Linux terminal, Docker Desktop and Git
 

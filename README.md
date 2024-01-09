@@ -1,4 +1,4 @@
-<h1>👋, Soy  Alex Tesan Delgado</h1>
+<h1>👋, Soy  Alex Tesán Delgado</h1>
 <h3>Sobre mi:</h3>
 
 - 👨‍💻 Estudiante de programación de Zaragoza

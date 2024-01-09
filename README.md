@@ -4,7 +4,7 @@
 - 👨‍💻 Estudiante de programación de Zaragoza
 - 🔭 Estudiando en: [Salesianos Zaragoza](https://zaragoza.salesianos.edu/)
 - 📈 Aprendiendo cada día y aspirando a ser un gran informático
-- 🌱 Aprendiendo: .Net, C#, Anguar, Salesforce
+- 🌱 Aprendiendo: .Net, C#, Anguar
 - 📚 Gestión empresarial y metodologías ágiles: Odoo, Salesforce, Kanban 
 
 <h3>Familiarizado con:</h3>

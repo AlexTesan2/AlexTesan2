@@ -1,7 +1,7 @@
-<h1>👋, Soy  Alex Tesán Delgado</h1>
+<h1>👋, Soy  Alejandro Tesán</h1>
 <h3>Sobre mi:</h3>
 
-- 👨‍💻 Estudiante de programación de Zaragoza
+- 👨‍💻 Estudiante de DAM de Zaragoza
 - 🔭 Estudiando en: [Salesianos Zaragoza](https://zaragoza.salesianos.edu/)
 - 📈 Aprendiendo cada día y aspirando a ser un gran informático
 - 🌱 Aprendiendo: .Net, C#, Anguar

@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,py,cs,dotnet,angular,js,jquery,ts,html,css,bootstrap,maven,mysql,sqlite,linux,git,docker,unity,vscode,visualstudio,eclipse&perline=11" />
+    <img src="https://skillicons.dev/icons?i=java,py,cs,dotnet,angular,js,jquery,ts,html,css,bootstrap,maven,mysql,sqlite,linux,git,docker,unity&perline=8" />
   </a>
 </p>
 
@@ -21,5 +21,5 @@
 <!---✨
 <h3>certifiaciones:</h3>
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
-spring,postman,aws,arduino
+spring,postman,aws,arduino,vscode,visualstudio,eclipse
 --->

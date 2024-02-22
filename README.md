@@ -3,7 +3,6 @@
 
 - 👨‍💻 Software Developer Student
 - 🔭 Currently, I am studying at: [Salesianos Zaragoza](https://zaragoza.salesianos.edu/)
-- 🌱 Learning: Salesforce
 
 <h3>Familiar with:</h3>
 
@@ -22,4 +21,5 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 spring,postman,aws,arduino,vscode,visualstudio,eclipse
 - 📈 Aprendiendo cada día y aspirando a ser un gran informático
+- 🌱 Learning: Salesforce
 --->

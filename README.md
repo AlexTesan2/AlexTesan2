@@ -1,9 +1,15 @@
 <h1>Hi 👋, I`m Alejandro Tesán</h1>
 <h3>About me:</h3>
 
-- 👨‍💻 Software Developer Student
-- 🔭 Currently, I am studying at: [Salesianos Zaragoza](https://zaragoza.salesianos.edu/)
-
+- 🧑‍💻 Software Developer
+- 👨‍💻 Currently, working at CCBosco
+- 🔭 I studied in: [Salesianos Zaragoza](https://zaragoza.salesianos.edu/)
+<h3>Working with:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,mysql,cs,dotnet&perline=8" />
+  </a>
+</p>
 <h3>Familiar with:</h3>
 
 <p align="left">

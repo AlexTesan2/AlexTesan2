@@ -1,15 +1,10 @@
 <h1>Hi 👋, I`m Alejandro Tesán</h1>
 <h3>About me:</h3>
 
-- 🧑‍💻 Software Developer
+- 🧑 .Net and Odoo Developer
 - 👨‍💻 Currently, working at CCBosco
 - 🔭 I studied in: [Salesianos Zaragoza](https://zaragoza.salesianos.edu/)
-<h3>Working with:</h3>
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,mysql,cs,dotnet&perline=8" />
-  </a>
-</p>
+<br>
 <h3>Familiar with:</h3>
 
 <p align="left">
@@ -29,3 +24,10 @@ spring,postman,aws,arduino,
 - 📈 Aprendiendo cada día y aspirando a ser un gran informático
 - 🌱 Learning: Salesforce
 --->
+
+<!--<h3>Working with:</h3>
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,mysql,cs,dotnet&perline=8" />
+  </a>
+</p>-->
